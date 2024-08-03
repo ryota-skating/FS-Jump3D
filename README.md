@@ -22,6 +22,10 @@ You can download the dataset using the `FILE_ID` with the following curl command
 curl "https://drive.usercontent.google.com/download?id=FILE_ID&confirm=xxx" -o output_filename
 ```
 
+## How to Use the Dataset
+
+We will add this section soon.
+
 ## License
 
 `FS-Jump3D` Dataset is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
