@@ -10,11 +10,17 @@ This is the official repository for `FS-Jump3D` dataset.
 </div>
 
 ## Download
-| Data | Size | Download (zip) |
-| ---- | ---- | ---- |
-| c3d | 302.6 MB | [GoogleDrive](https://drive.google.com/file/d/12VqZmw-XyKyWnmEAWnnk_ZEU_1KGTig1/view?usp=drive_link) |
-| json | 505.2 MB | [GoogleDrive](https://drive.google.com/file/d/1Kh4chravgcSb3RZQ3k_WwSfClND0bcUO/view?usp=drive_link) |
-| videos | 8.84 GB | [GoogleDrive](https://drive.google.com/drive/folders/1yvZMmK4hvrvK5ykqzkr1d-yVmImz-NNJ?usp=sharing) |
+
+| Data | Size | Download (zip) | FILE_ID |
+| :---: | :---: | :---: | :---: |
+| c3d | 302.6 MB | [GoogleDrive](https://drive.google.com/drive/folders/1Ki9dxLuo78XFnCun9LGwWFlzO-A0FxJT?usp=drive_link) | `12VqZmw-XyKyWnmEAWnnk_ZEU_1KGTig1` |
+| json | 505.2 MB | [GoogleDrive](https://drive.google.com/drive/folders/17gQJR-qzF_JTs8JZgwZc1wuRKvkwnwVj?usp=drive_link) | `1Kh4chravgcSb3RZQ3k_WwSfClND0bcUO` |
+| videos | 8.84 GB | [GoogleDrive](https://drive.google.com/drive/folders/1yvZMmK4hvrvK5ykqzkr1d-yVmImz-NNJ?usp=sharing) | `1NgdlJKN2VGV4ngHDGnRXUcV2M9Qdt30C` <br> `1HrJxot6Sxg9trYZnxF6tsWYdFq0q5ub_` <br> `1Exu1Ul6eHCCH6YzZJa4XTy9XbVMcX9Jj` <br> `1YMAUlsH7vnNvg-iwiENch0KrIzWa4gO-` |
+
+You can download the dataset using the `FILE_ID` with the following curl command.
+```zsh
+curl "https://drive.usercontent.google.com/download?id=FILE_ID&confirm=xxx" -o output_filename
+```
 
 ## License
 
