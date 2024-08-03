@@ -12,7 +12,7 @@ This is the official repository for `FS-Jump3D` dataset.
 ## Download
 | Data | Size | Download |
 | ---- | ---- | ---- |
-| original c3d | 302.6 MB | [GoogleDrive](https://drive.google.com/drive/folders/1Ki9dxLuo78XFnCun9LGwWFlzO-A0FxJT?usp=drive_link) |
+| c3d | 302.6 MB | [GoogleDrive](https://drive.google.com/drive/folders/1Ki9dxLuo78XFnCun9LGwWFlzO-A0FxJT?usp=drive_link) |
 | json | 505.2 MB | [GoogleDrive](https://drive.google.com/drive/folders/17gQJR-qzF_JTs8JZgwZc1wuRKvkwnwVj?usp=sharing) |
 | videos | 8.84 GB | [GoogleDrive](https://drive.google.com/drive/folders/1yvZMmK4hvrvK5ykqzkr1d-yVmImz-NNJ?usp=sharing) |
 
