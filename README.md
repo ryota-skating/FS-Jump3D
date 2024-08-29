@@ -24,7 +24,21 @@ curl "https://drive.usercontent.google.com/download?id=FILE_ID&confirm=xxx" -o o
 
 ## How to Use the Dataset
 
-We will add this section soon.
+### Using C3D Files
+
+You can open and visualize the original C3D files with QTM (Qualisys Track Manager) software. QTM also allows you to export the data in various formats. For more details, please visit the [Qualisys Track Manager page](https://www.qualisys.com/software/qualisys-track-manager/).
+
+### Using JSON files
+
+The JSON files contain the same data as the original C3D files. To convert a JSON file into a common 3D pose format, place the downloaded JSON file in the `data/json` directory and run the following command:
+```zsh
+python utils/format.py
+```
+
+Our implementation uses the Human3.6M keypoint rig, as described in the [MMPose documentation](https://mmpose.readthedocs.io/en/latest/dataset_zoo/3d_body_keypoint.html), to format JSON files. If you want to use a different keypoint rig, add it to `utils/rig.json` and format the JSON files with the following command:
+```zsh
+python utils/format.py --rig YOUR_NEW_RIG
+```
 
 ## License
 
