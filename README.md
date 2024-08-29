@@ -30,7 +30,7 @@ You can open and visualize the original C3D files with QTM (Qualisys Track Manag
 
 ### Using JSON files
 
-The JSON files contain the same data as the original C3D files. To convert a JSON file into a common 3D pose format, place the downloaded JSON file in the `data/json` directory and run the following command:
+The JSON files contain the same data as the original C3D files. To convert JSON files into the common 3D pose format, place the downloaded JSON files in the `data/json` directory and run the following command:
 ```zsh
 python utils/format.py
 ```
