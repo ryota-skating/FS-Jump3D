@@ -1,0 +1,21 @@
+{"Human3.6M":
+    {
+        "0": ["PELVIS"],
+        "1": ["RASI", "RPSI"],
+        "2": ["RKNE"],
+        "3": ["RANK"],
+        "4": ["LASI", "LPSI"],
+        "5": ["LKNE"],
+        "6": ["LANK"],
+        "7": ["Xiphoid", "T10"],
+        "8": ["CLAV"],
+        "9": ["CLAV", "Nasion"],
+        "10": ["Vertex", "EARC"],
+        "11": ["L_Shoulder Joint"],
+        "12": ["LELB"],
+        "13": ["LWRT"],
+        "14": ["R_Shoulder Joint"],
+        "15": ["RELB"],
+        "16": ["RWRT"]
+    }
+}
