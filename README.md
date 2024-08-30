@@ -14,7 +14,7 @@ This is the official repository for `FS-Jump3D` dataset.
 
 ## News
 
-We are pleased to announce that our paper, "3D Pose-Based Temporal Action Segmentation for Figure Skating: A Fine-Grained and Jump Procedure-Aware Annotation Approach," has been accepted for presentation at the 7th ACM International Workshop on Multimedia Content Analysis in Sports (MMSports '24).
+We are pleased to announce that our paper, "[3D Pose-Based Temporal Action Segmentation for Figure Skating: A Fine-Grained and Jump Procedure-Aware Annotation Approach](https://arxiv.org/abs/2408.16638)," has been accepted for presentation at the 7th ACM International Workshop on Multimedia Content Analysis in Sports (MMSports '24).
 
 ## Download
 
