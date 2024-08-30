@@ -44,6 +44,26 @@ python utils/format.py --rig YOUR_NEW_RIG
 
 `FS-Jump3D` Dataset is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
+## Citation
+
+```
+@inproceedings{MMSports2024_tanaka,
+  author    = {Tanaka, Ryota and Suzuki, Tomohiro and Fujii, Keisuke},
+  title     = {3D Pose-Based Temporal Action Segmentation for Figure Skating: A Fine-Grained and Jump Procedure-Aware Annotation Approach},
+  booktitle = {Proceedings of the 7th ACM International Workshop on Multimedia Content Analysis in Sports},
+  series    = {MMSports '24},
+  year      = {2024},
+  isbn      = {979-8-4007-1198-5/24/10},
+  location  = {Melbourne, VIC, Australia},
+  pages     = {1--10},
+  numpages  = {10},
+  doi       = {10.1145/3689061.3689077},
+  publisher = {Association for Computing Machinery},
+  address   = {New York, NY, USA},
+  keywords  = {Temporal action segmentation, Human pose estimation, Sports, Datasets, Annotation, Computer vision},
+}
+```
+
 ## Acknowledgments
 
 We would like to express our gratitude to Chukyo University for facilitating access to high-level players and for providing their skating rink for our on-ice motion capture sessions. We also extend our thanks to Archive Tips, Inc. for their expertise and assistance with everything from arranging motion capture equipment to setting it up.
