@@ -1,5 +1,5 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2408.16638-B31B1B.svg)](http://arxiv.org/abs/2408.16638)
-![ACMMM 2024](https://img.shields.io/badge/ACMMM2024-10.1145/3689061.3689077-blue)
+[![ACMMM 2024](https://img.shields.io/badge/ACMMM2024-10.1145/3689061.3689077-blue)](https://doi.org/10.1145/3689061.3689077)
 
 # FS-Jump3D Dataset
 
