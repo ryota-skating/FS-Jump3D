@@ -12,6 +12,10 @@ This is the official repository for `FS-Jump3D` dataset.
   <img src="https://github.com/ryota-takedalab/FS-Jump3D/blob/main/figs/qtm_ex.gif" alt="QTM sample" height="200"/>
 </div>
 
+## News
+
+We are pleased to announce that our paper, "3D Pose-Based Temporal Action Segmentation for Figure Skating: A Fine-Grained and Jump Procedure-Aware Annotation Approach," has been accepted for presentation at the 7th ACM International Workshop on Multimedia Content Analysis in Sports (MMSports '24).
+
 ## Download
 
 | Data | Size | Download (zip) | FILE_ID |
