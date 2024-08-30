@@ -1,3 +1,5 @@
+[![arXiv](https://img.shields.io/badge/arXiv-2104.12345v1-B31B1B.svg)](http://arxiv.org/abs/2408.16638)
+
 # FS-Jump3D Dataset
 
 This is the official repository for `FS-Jump3D` dataset.
