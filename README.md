@@ -1,3 +1,6 @@
+[![arXiv](https://img.shields.io/badge/arXiv-2408.16638-B31B1B.svg)](http://arxiv.org/abs/2408.16638)
+[![ACMMM 2024](https://img.shields.io/badge/ACMMM2024-10.1145/3689061.3689077-blue)](https://doi.org/10.1145/3689061.3689077)
+
 # FS-Jump3D Dataset
 
 This is the official repository for `FS-Jump3D` dataset.
@@ -8,6 +11,10 @@ This is the official repository for `FS-Jump3D` dataset.
   <img src="https://github.com/ryota-takedalab/FS-Jump3D/blob/main/figs/Theia3D_sample.gif" alt="Theia3D sample" height="200"/>
   <img src="https://github.com/ryota-takedalab/FS-Jump3D/blob/main/figs/qtm_ex.gif" alt="QTM sample" height="200"/>
 </div>
+
+## News
+
+We are pleased to announce that our paper, "[3D Pose-Based Temporal Action Segmentation for Figure Skating: A Fine-Grained and Jump Procedure-Aware Annotation Approach](https://arxiv.org/abs/2408.16638)," has been accepted for presentation at the 7th ACM International Workshop on Multimedia Content Analysis in Sports (MMSports '24).
 
 ## Download
 
@@ -30,7 +37,7 @@ You can open and visualize the original C3D files with QTM (Qualisys Track Manag
 
 ### Using JSON files
 
-The JSON files contain the same data as the original C3D files. To convert a JSON file into a common 3D pose format, place the downloaded JSON file in the `data/json` directory and run the following command:
+The JSON files contain the same data as the original C3D files. To convert JSON files into the common 3D pose format, place the downloaded JSON files in the `data/json` directory and run the following command:
 ```zsh
 python utils/format.py
 ```
@@ -43,6 +50,26 @@ python utils/format.py --rig YOUR_NEW_RIG
 ## License
 
 `FS-Jump3D` Dataset is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+## Citation
+
+```
+@inproceedings{MMSports2024_tanaka,
+  author    = {Tanaka, Ryota and Suzuki, Tomohiro and Fujii, Keisuke},
+  title     = {3D Pose-Based Temporal Action Segmentation for Figure Skating: A Fine-Grained and Jump Procedure-Aware Annotation Approach},
+  booktitle = {Proceedings of the 7th ACM International Workshop on Multimedia Content Analysis in Sports},
+  series    = {MMSports '24},
+  year      = {2024},
+  isbn      = {979-8-4007-1198-5/24/10},
+  location  = {Melbourne, VIC, Australia},
+  pages     = {1--10},
+  numpages  = {10},
+  doi       = {10.1145/3689061.3689077},
+  publisher = {Association for Computing Machinery},
+  address   = {New York, NY, USA},
+  keywords  = {Temporal action segmentation, Human pose estimation, Sports, Datasets, Annotation, Computer vision},
+}
+```
 
 ## Acknowledgments
 
