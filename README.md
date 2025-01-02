@@ -55,19 +55,20 @@ python utils/format.py --rig YOUR_NEW_RIG
 
 ```
 @inproceedings{MMSports2024_tanaka,
-  author    = {Tanaka, Ryota and Suzuki, Tomohiro and Fujii, Keisuke},
-  title     = {3D Pose-Based Temporal Action Segmentation for Figure Skating: A Fine-Grained and Jump Procedure-Aware Annotation Approach},
-  booktitle = {Proceedings of the 7th ACM International Workshop on Multimedia Content Analysis in Sports},
-  series    = {MMSports '24},
-  year      = {2024},
-  isbn      = {979-8-4007-1198-5/24/10},
-  location  = {Melbourne, VIC, Australia},
-  pages     = {1--10},
-  numpages  = {10},
-  doi       = {10.1145/3689061.3689077},
-  publisher = {Association for Computing Machinery},
-  address   = {New York, NY, USA},
-  keywords  = {Temporal action segmentation, Human pose estimation, Sports, Datasets, Annotation, Computer vision},
+author = {Tanaka, Ryota and Suzuki, Tomohiro and Fujii, Keisuke},
+title = {3D Pose-Based Temporal Action Segmentation for Figure Skating: A Fine-Grained and Jump Procedure-Aware Annotation Approach},
+year = {2024},
+isbn = {9798400711985},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3689061.3689077},
+doi = {10.1145/3689061.3689077},
+booktitle = {Proceedings of the 7th ACM International Workshop on Multimedia Content Analysis in Sports},
+pages = {17–26},
+numpages = {10},
+keywords = {annotation, computer vision, datasets, human pose estimation, sports, temporal action segmentation},
+location = {Melbourne VIC, Australia},
+series = {MMSports '24}
 }
 ```
 
