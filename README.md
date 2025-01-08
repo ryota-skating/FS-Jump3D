@@ -5,7 +5,7 @@
 
 This is the official repository for `FS-Jump3D` dataset.
 
-`FS-Jump3D` dataset is the first figure skating jump dataset that includes both 3D pose data and video data from 12 viewpoints. The jump data were captured using the markerless motion-capture system (Theia3D, Theia) by positioning 12 high-speed cameras (Miqus Video, Qualisys) on the ice skating rink.
+`FS-Jump3D` dataset is the first figure skating jump dataset that includes both 3D pose data and video data from 12 viewpoints. The jump data were captured using the markerless motion-capture system ([Theia3D](https://www.theiamarkerless.ca/), Theia) by positioning 12 high-speed cameras ([Miqus Video](https://www.qualisys.com/cameras/miqus-video/), Qualisys) on the ice skating rink.
 
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/ryota-takedalab/FS-Jump3D/blob/main/figs/Theia3D_sample.gif" alt="Theia3D sample" height="200"/>
